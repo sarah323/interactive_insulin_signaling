@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this educational simulator in teaching, research, or publications, please cite it using the metadata below."
+
+title: "Interactive Insulin Signaling Simulator"
+
+type: software
+
+version: "1.0.0"
+
+doi: "10.5281/zenodo.21358575"
+
+date-released: "2026-07-14"
+
+license: "CC-BY-4.0"
+
+authors:
+  - family-names: "Salah"
+    given-names: "Sarah"
+    orcid: "https://orcid.org/0009-0001-7198-0515"
+
+abstract: >
+  An interactive web-based educational simulator for teaching insulin
+  signaling, insulin resistance, and metabolic regulation. The simulator
+  provides dynamic visualization of insulin signaling pathways, interactive
+  physiological simulations, virtual laboratory interpretation, and
+  educational case-based learning for undergraduate and postgraduate
+  medical education.
+
+keywords:
+  - insulin signaling
+  - insulin resistance
+  - medical biochemistry
+  - endocrinology
+  - physiology
+  - medical education
+  - educational software
+  - web application
+  - biomedical education
+  - interactive learning
+
+repository-code: "https://github.com/sarah323/interactive_insulin_signaling"
+
+url: "https://sarah323.github.io/interactive_insulin_signaling/"
+
+repository-artifact: "https://doi.org/10.5281/zenodo.21358575"
+
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Salah"
+      given-names: "Sarah"
+      orcid: "https://orcid.org/0009-0001-7198-0515"
+  title: "Interactive Insulin Signaling Simulator"
+  version: "1.0.0"
+  doi: "10.5281/zenodo.21358575"
+  publisher: "Zenodo"
+  year: 2026
